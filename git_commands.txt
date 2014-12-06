@@ -1,0 +1,5 @@
+repository	local	origin
+
+1. make changes, git add filename(s), git commit, git push
+
+2. git branch branchname, git checkout branchname, -> (1) -> git rebase develop -> git merge branchname1 develop
